@@ -1,0 +1,176 @@
+.kusok {
+    padding: 5rem 0 5rem;
+    text-align: center;
+}
+
+.geroi {
+    text-align: left;
+}
+
+.geroi h1 {
+    font-weight: 400;
+    color: #33C3F0;
+}
+
+.geroi .button-primary {
+    color: black;
+}
+
+.razdeliteli {
+    height: 0.5rem;
+    width: 100%;
+    background-color: #33C3F0;
+}
+
+.uslugi {
+    width: 100%;
+    background-image: url('../images/header.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.uslugi h2 {
+    padding-bottom: 3rem;
+}
+
+.servhead {}
+
+.uslugi h4 {
+    color: #33C3F0;
+    font-weight: 400;
+}
+
+.uslugi .fa {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.uslugi i {
+    margin: 0.5rem;
+    padding-top: 0.5rem;
+    color: #fff;
+}
+
+.uslugi h4 {
+    padding-top: 0.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.kusok h2 {
+    padding-bottom: 2rem;
+}
+
+.catalogue .button-primary {
+    color: black;
+}
+
+.catalogue i {
+    color: #33C3F0;
+}
+
+.cathead {
+    padding: 5rem;
+}
+
+.komanda {
+    background-color: #dadada;
+}
+
+.komanda h4 {
+    font-style: italic;
+}
+
+.krug {
+    border-radius: 50%;
+    border: 2px solid #33C3F0;
+}
+
+.contacts .button-primary {
+    color: black;
+}
+
+.button i {
+    margin-right: 1rem;
+}
+
+.nojka {
+    padding: 0.5rem;
+    text-align: center;
+}
+
+.risfoto {
+    position: relative;
+    max-width: 80%;
+    padding: 1rem 0 2rem;
+}
+
+.risfotov {
+    position: relative;
+    max-width: 80%;
+    padding: 0.5rem 0 0.5rem;
+}
+
+@media(min-width:1000px) {
+    .udar {
+        padding-top: 3rem;
+    }
+}
+
+.pricing h3 {
+  color: #33C3F0;
+}
+
+.navig {
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  z-index: 10;
+  background: #fff;
+}
+
+.navig ul {
+  padding:0;
+   margin:0;
+   display: flex;
+   flex-flow: row;
+   list-style: none;
+   justify-content:center;
+}
+
+.navig ul li {
+  margin-right: 0.5rem;
+ }
+
+.navig ul li a {
+  text-transform:uppercase;
+  text-decoration:none;
+  padding:0.3em 1em;
+ }
+
+ footer {
+  color: #fff;
+  background: #33C3F0;
+  padding: 1em 0;
+ }
+
+
+ footer nav ul {
+  margin-top:0.5em;
+ }
+
+ footer nav ul li {
+  display:inline;
+  margin:0;
+ }
+
+ footer nav ul li a {
+  color:#fff;
+  text-decoration:none;
+  text-transform: uppercase;
+  margin:0 1em 0 0;
+  font-size:1em;
+ }
