@@ -7,7 +7,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Skeleton Tutorial'
+    title: 'Программое Обеспечние И Технологии'
   }
 }
 </script>

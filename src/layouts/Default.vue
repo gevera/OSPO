@@ -1,5 +1,6 @@
 <template>
   <div>
+    <Navig />
     <slot/>
   </div>
 </template>
@@ -11,6 +12,13 @@ query {
   }
 }
 </static-query>
+
+<script>
+import Navig from '~/components/Navig.vue'
+export default {
+  components: {Navig}
+}
+</script>
 
 <style>
 </style>
